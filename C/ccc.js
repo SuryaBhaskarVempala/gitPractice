@@ -1,3 +1,0 @@
-function ccc(){
-    return "ccc";
-}
